@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Sum Plugin",
+      "path": "../AllPlugins/SumPlugin",
+      "isInstalled": true
+    },
+    {
+      "id": "2",
+      "name": "TestPlugin",
+      "path": "d:/learning/Install test/marketplace/src/AllPlugins/SumPlugin.tsx",
+      "isInstalled": false
+    },
+    {
+      "id": "3",
+      "name": "Github",
+      "path": "https://github.com/CodEsHiVaz/ExamplePlugin/blob/main/ExamplePlugin.tsx",
+      "isInstalled": false
+    }
+  ]
+}
